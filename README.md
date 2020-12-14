@@ -1,5 +1,5 @@
 # Frogger Clone
-Year 1 of University 2017/18: Implementing a version of Frogger, using the SFML Library  
+Year 1 of University 2017/18: Implementing a version of Frogger, using the SFML Library  (Change to Debug x86)
   
 [X] The player controls a frog character which is rectangular in shape. The frog
 and move left, right up and down. These movements should be linked to the
